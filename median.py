@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """Median calculator."""
 """ENTER YOUR SOLUTION HERE!"""
 
@@ -20,5 +20,5 @@ numbers.sort()
 if (len(numbers) % 2 == 1):
     print(numbers[len(numbers) // 2])
 else:
->>>>>>> 4acb48bac781421d489deb887f0d86c9cf69b5cc
+
     print(((numbers[len(numbers) // 2]) + (numbers[len(numbers) // 2 - 1])) / 2)
